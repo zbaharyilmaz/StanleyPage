@@ -12,7 +12,7 @@ body {
 }
 .container {
   background-color: rgb(40, 38, 38);
-  width: 1300px;
+  width: 90%;
   margin: auto;
   border-radius: 1%;
   font-size: 1.5rem;
@@ -44,14 +44,14 @@ body {
   ul li {
     line-height: 1.7;
   }
-.footer p{
+footer{
   text-align: center;
-  font-size: 2rem;
+  font-size: 1.5rem;
   padding: 20px;
 }
 button {
   border-radius: 8%;
-  font-size: 2rem;
+  font-size: 1.5rem;
   padding: 16px;
   color: white;
   background-color: black;
